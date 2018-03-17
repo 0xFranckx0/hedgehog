@@ -1,0 +1,3 @@
+.Phony: build
+
+PROJECT=adt
